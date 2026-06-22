@@ -13,4 +13,5 @@ Haskell typeclasses in C: Functor, Applicative, Monad, Natural Transformations, 
 
 **Should you use this in production?** No.
 
-See paper: TBA
+See paper: 
+https://guillotinemelody.dev/resources/CAndCategoryTheory.pdf
