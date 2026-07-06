@@ -1,4 +1,4 @@
-# Archived: Moved to (Codeberg)[https://codeberg.org/GuillotineMelody/CandCategoryTheory]!
+# Archived! Moved to Codeberg: https://codeberg.org/GuillotineMelody/CandCategoryTheory
 
 
 # C and Category Theory
