@@ -1,3 +1,6 @@
+# Archived: Moved to (Codeberg)[https://codeberg.org/GuillotineMelody/CandCategoryTheory]!
+
+
 # C and Category Theory
 
 Haskell typeclasses in C: Functor, Applicative, Monad, Natural Transformations, Profunctors, Kan Extensions.
